@@ -1,0 +1,2 @@
+This file contains GitHub instructions for the practical exam.
+It demonstrates creating a file on a separate branch.
